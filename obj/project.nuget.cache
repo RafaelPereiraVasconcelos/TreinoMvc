@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ak9Tk3qLEO9t9pkEd1fLkvByjvipmSnv7U8S+9ksn6YJY9z8mNElQzeiK9N3hC4FG2XLiDxsYAehQTdR4k6haA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EtecHAS\\Desktop\\TreinoMvc\\TreinoMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.8\\microsoft.aspnetcore.jsonpatch.7.0.8.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.8.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\EtecHAS\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
